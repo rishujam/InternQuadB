@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/miOrder"
+        android:title="Order"
+        android:icon="@drawable/ic_order"/>
+
+    <item
+        android:id="@+id/miGoOut"
+        android:title="Go Out"
+        android:icon="@drawable/ic_goout"/>
+    <item
+        android:id="@+id/miPro"
+        android:title="Pro"
+        android:icon="@drawable/ic_pro"/>
+    <item
+        android:id="@+id/miNutrition"
+        android:title="Nutrition"
+        android:icon="@drawable/ic_nutrition"/>
+    <item
+        android:id="@+id/miDonate"
+        android:title="Donate"
+        android:icon="@drawable/ic_donate"/>
+
+
+</menu>
